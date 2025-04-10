@@ -18,4 +18,4 @@ jobs:
       - name: Upload release artifacts
         uses: softprops/action-gh-release@v2
         with:
-          files: ./client/packages/android/app/Screenshot 2025-04-09 at 15.00.55.png
+          files: ./client/packages/android/app/open-msupply-2.7.00-release.apk
