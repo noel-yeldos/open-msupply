@@ -4,7 +4,7 @@ on:
       - "v*"
   workflow_dispatch:
 
-name: Android Build
+name: Android Build u
 
 jobs:
   create-android-build:
